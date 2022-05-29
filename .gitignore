@@ -1,0 +1,9 @@
+# exclude every file and directory
+*
+
+# include .gitignore file
+!.gitignore
+
+# include .xmodmap and .map files
+!*.xmodmap
+!*.map
