@@ -7,3 +7,6 @@
 # include .xmodmap and .map files
 !*.xmodmap
 !*.map
+
+# include load_dhk.sh script
+!load_dhk.sh
